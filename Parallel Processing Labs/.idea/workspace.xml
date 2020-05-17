@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f0edb9b2-1b22-46cc-b9b0-6140de1afbd2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="196" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Package Object" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Wr5NIkL2zirZj6QVBUvM65WAeS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.ParGLEstimator">
+    <configuration name="FuturesGLEstimator" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lab6.FuturesGLEstimator" />
+      <module name="679-labs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GLEstimator" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lab5.GLEstimator" />
+      <module name="679-labs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParGLEstimator" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lab7.ParGLEstimator" />
+      <module name="679-labs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParentWithRunnable" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lab3.ParentWithRunnable" />
+      <module name="679-labs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeqMultAdder" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lab2.SeqMultAdder" />
+      <module name="679-labs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ParGLEstimator" />
+        <item itemvalue="Application.FuturesGLEstimator" />
+        <item itemvalue="Application.SeqMultAdder" />
+        <item itemvalue="Application.GLEstimator" />
+        <item itemvalue="Application.ParentWithRunnable" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0edb9b2-1b22-46cc-b9b0-6140de1afbd2" name="Default Changelist" comment="" />
+      <created>1579894831771</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579894831771</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="458" y="211" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1583522343910">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="458" y="211" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1440.830@0.23.1440.830" timestamp="1582082392462" />
+    <state x="458" y="211" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1440.831@0.23.1440.831" timestamp="1583522343910" />
+    <state x="533" y="143" key="#com.intellij.ide.util.MemberChooser" timestamp="1581050288733">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="533" y="143" key="#com.intellij.ide.util.MemberChooser/0.23.1440.831@0.23.1440.831" timestamp="1581050288733" />
+    <state x="423" y="54" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1583468433657">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="423" y="54" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.23.1440.831@0.23.1440.831" timestamp="1583468433657" />
+    <state x="458" y="211" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1583468436323">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="458" y="211" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.23.1440.831@0.23.1440.831" timestamp="1583468436323" />
+    <state x="368" y="303" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1583468186073">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="368" y="303" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.831@0.23.1440.831" timestamp="1583468186073" />
+    <state width="1015" height="202" key="GridCell.Tab.0.bottom" timestamp="1583522961153">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="1358" height="202" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1582918571887" />
+    <state width="1015" height="202" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1583522787321" />
+    <state width="1015" height="202" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1583522961153" />
+    <state width="1015" height="202" key="GridCell.Tab.0.bottom/0.23.1440.833@0.23.1440.833" timestamp="1583008317996" />
+    <state width="1015" height="202" key="GridCell.Tab.0.center" timestamp="1583522961152">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="1358" height="202" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1582918571886" />
+    <state width="1015" height="202" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1583522787321" />
+    <state width="1015" height="202" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1583522961152" />
+    <state width="1015" height="202" key="GridCell.Tab.0.center/0.23.1440.833@0.23.1440.833" timestamp="1583008317992" />
+    <state width="1015" height="202" key="GridCell.Tab.0.left" timestamp="1583522961152">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="1358" height="202" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1582918571885" />
+    <state width="1015" height="202" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1583522787321" />
+    <state width="1015" height="202" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1583522961152" />
+    <state width="1015" height="202" key="GridCell.Tab.0.left/0.23.1440.833@0.23.1440.833" timestamp="1583008317991" />
+    <state width="1015" height="202" key="GridCell.Tab.0.right" timestamp="1583522961152">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="1358" height="202" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1582918571886" />
+    <state width="1015" height="202" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1583522787321" />
+    <state width="1015" height="202" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1583522961152" />
+    <state width="1015" height="202" key="GridCell.Tab.0.right/0.23.1440.833@0.23.1440.833" timestamp="1583008317996" />
+    <state width="1358" height="250" key="GridCell.Tab.1.bottom" timestamp="1582220656000">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1358" height="250" key="GridCell.Tab.1.bottom/0.23.1440.831@0.23.1440.831" timestamp="1582220656000" />
+    <state width="1358" height="250" key="GridCell.Tab.1.bottom/0.23.1440.832@0.23.1440.832" timestamp="1581044066232" />
+    <state width="1358" height="250" key="GridCell.Tab.1.center" timestamp="1582220656000">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1358" height="250" key="GridCell.Tab.1.center/0.23.1440.831@0.23.1440.831" timestamp="1582220656000" />
+    <state width="1358" height="250" key="GridCell.Tab.1.center/0.23.1440.832@0.23.1440.832" timestamp="1581044066230" />
+    <state width="1358" height="250" key="GridCell.Tab.1.left" timestamp="1582220655999">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1358" height="250" key="GridCell.Tab.1.left/0.23.1440.831@0.23.1440.831" timestamp="1582220655999" />
+    <state width="1358" height="250" key="GridCell.Tab.1.left/0.23.1440.832@0.23.1440.832" timestamp="1581044066230" />
+    <state width="1358" height="250" key="GridCell.Tab.1.right" timestamp="1582220656000">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1358" height="250" key="GridCell.Tab.1.right/0.23.1440.831@0.23.1440.831" timestamp="1582220656000" />
+    <state width="1358" height="250" key="GridCell.Tab.1.right/0.23.1440.832@0.23.1440.832" timestamp="1581044066231" />
+    <state x="208" y="23" width="1024" height="831" key="SettingsEditor" timestamp="1583468441439">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="208" y="23" width="1024" height="831" key="SettingsEditor/0.23.1440.831@0.23.1440.831" timestamp="1583468441439" />
+    <state x="399" y="270" key="com.intellij.ide.util.TipDialog" timestamp="1583889237249">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="399" y="270" key="com.intellij.ide.util.TipDialog/0.23.1440.830@0.23.1440.830" timestamp="1583889237249" />
+    <state x="399" y="270" key="com.intellij.ide.util.TipDialog/0.23.1440.831@0.23.1440.831" timestamp="1583511548579" />
+    <state x="399" y="271" key="com.intellij.ide.util.TipDialog/0.23.1440.833@0.23.1440.833" timestamp="1580479099194" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1581029951467">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.23.1440.832@0.23.1440.832" timestamp="1581029951467" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/679_labs$SeqMultAdder.ic" NAME="SeqMultAdder Coverage Results" MODIFIED="1581044066184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>lab2.*</FILTER>
+    </SUITE>
+  </component>
+</project>
