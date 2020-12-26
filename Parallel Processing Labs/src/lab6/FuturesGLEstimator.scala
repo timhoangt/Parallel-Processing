@@ -14,11 +14,11 @@ object FuturesGLEstimator extends App {
   val start: Float = System.nanoTime()
 
   val futures = for(k <- 0L until NUM_PARTITIONS) yield Future {
-    // TODO: compute lower for this future based on k and RANGE
+    //compute lower for this future based on k and RANGE
     val lower = (k * RANGE) + 1
-    // TODO: compute upper for this future based on k and RANGE
+    //compute upper for this future based on k and RANGE
     val upper = min(k * RANGE + RANGE, max)
-    // TODO: sum in (lower,upper) range per Eq. 1
+    //sum in (lower,upper) range per Eq. 1
     val sum: Double = (lower to upper).foldLeft(1.0)((PiOverFour, upper) =>
       PiOverFour + (1 - (2.0 * (upper.toDouble % 2.0))) / (2.0 * upper.toDouble + 1.0))
 

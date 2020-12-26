@@ -3,7 +3,7 @@ import java.text.DecimalFormat
 
 object GLEstimator extends App {
 
-  val n: Int = Int.MaxValue
+  val n: Int = 100000000
   val start: Float = System.nanoTime()
 
   val Pi: Double = (1 to n).foldLeft(1.0)((PiOverFour, n) =>

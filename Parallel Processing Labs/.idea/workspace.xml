@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0edb9b2-1b22-46cc-b9b0-6140de1afbd2" name="Default Changelist" comment="" />
+    <list default="true" id="f0edb9b2-1b22-46cc-b9b0-6140de1afbd2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/Parallel-Processing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/679-labs/META-INF/679-labs.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/679-labs/lab5/GLEstimator$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/679-labs/lab5/GLEstimator$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/679-labs/lab7/ParGLEstimator$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/679-labs/lab7/ParGLEstimator$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab5/GLEstimator.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab5/GLEstimator.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab6/FuturesGLEstimator.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab6/FuturesGLEstimator.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab7/ParGLEstimator.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab7/ParGLEstimator.scala" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,10 +34,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1Wr5NIkL2zirZj6QVBUvM65WAeS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -31,11 +49,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunManager" selected="Application.ParGLEstimator">
     <configuration name="FuturesGLEstimator" type="Application" factoryName="Application" temporary="true">
@@ -90,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeqMultAdder" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lab2.SeqMultAdder" />
+    <configuration name="ParentWithThread" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lab3.ParentWithThread" />
       <module name="679-labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab2.*" />
+          <option name="PATTERN" value="lab3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,9 +127,9 @@
       <list>
         <item itemvalue="Application.ParGLEstimator" />
         <item itemvalue="Application.FuturesGLEstimator" />
-        <item itemvalue="Application.SeqMultAdder" />
         <item itemvalue="Application.GLEstimator" />
         <item itemvalue="Application.ParentWithRunnable" />
+        <item itemvalue="Application.ParentWithThread" />
       </list>
     </recent_temporary>
   </component>
@@ -127,89 +147,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="458" y="211" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1583522343910">
-      <screen x="0" y="23" width="1440" height="831" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1609019117507">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="458" y="211" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1440.830@0.23.1440.830" timestamp="1582082392462" />
-    <state x="458" y="211" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1440.831@0.23.1440.831" timestamp="1583522343910" />
-    <state x="533" y="143" key="#com.intellij.ide.util.MemberChooser" timestamp="1581050288733">
-      <screen x="0" y="23" width="1440" height="831" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1609019117507" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1609019117506">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="533" y="143" key="#com.intellij.ide.util.MemberChooser/0.23.1440.831@0.23.1440.831" timestamp="1581050288733" />
-    <state x="423" y="54" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1583468433657">
-      <screen x="0" y="23" width="1440" height="831" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1609019117506" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1609019117506">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="423" y="54" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.23.1440.831@0.23.1440.831" timestamp="1583468433657" />
-    <state x="458" y="211" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1583468436323">
-      <screen x="0" y="23" width="1440" height="831" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1609019117506" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1609019117507">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="458" y="211" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.23.1440.831@0.23.1440.831" timestamp="1583468436323" />
-    <state x="368" y="303" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1583468186073">
-      <screen x="0" y="23" width="1440" height="831" />
-    </state>
-    <state x="368" y="303" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.831@0.23.1440.831" timestamp="1583468186073" />
-    <state width="1015" height="202" key="GridCell.Tab.0.bottom" timestamp="1583522961153">
-      <screen x="0" y="23" width="1440" height="832" />
-    </state>
-    <state width="1358" height="202" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1582918571887" />
-    <state width="1015" height="202" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1583522787321" />
-    <state width="1015" height="202" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1583522961153" />
-    <state width="1015" height="202" key="GridCell.Tab.0.bottom/0.23.1440.833@0.23.1440.833" timestamp="1583008317996" />
-    <state width="1015" height="202" key="GridCell.Tab.0.center" timestamp="1583522961152">
-      <screen x="0" y="23" width="1440" height="832" />
-    </state>
-    <state width="1358" height="202" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1582918571886" />
-    <state width="1015" height="202" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1583522787321" />
-    <state width="1015" height="202" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1583522961152" />
-    <state width="1015" height="202" key="GridCell.Tab.0.center/0.23.1440.833@0.23.1440.833" timestamp="1583008317992" />
-    <state width="1015" height="202" key="GridCell.Tab.0.left" timestamp="1583522961152">
-      <screen x="0" y="23" width="1440" height="832" />
-    </state>
-    <state width="1358" height="202" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1582918571885" />
-    <state width="1015" height="202" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1583522787321" />
-    <state width="1015" height="202" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1583522961152" />
-    <state width="1015" height="202" key="GridCell.Tab.0.left/0.23.1440.833@0.23.1440.833" timestamp="1583008317991" />
-    <state width="1015" height="202" key="GridCell.Tab.0.right" timestamp="1583522961152">
-      <screen x="0" y="23" width="1440" height="832" />
-    </state>
-    <state width="1358" height="202" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1582918571886" />
-    <state width="1015" height="202" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1583522787321" />
-    <state width="1015" height="202" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1583522961152" />
-    <state width="1015" height="202" key="GridCell.Tab.0.right/0.23.1440.833@0.23.1440.833" timestamp="1583008317996" />
-    <state width="1358" height="250" key="GridCell.Tab.1.bottom" timestamp="1582220656000">
-      <screen x="0" y="23" width="1440" height="831" />
-    </state>
-    <state width="1358" height="250" key="GridCell.Tab.1.bottom/0.23.1440.831@0.23.1440.831" timestamp="1582220656000" />
-    <state width="1358" height="250" key="GridCell.Tab.1.bottom/0.23.1440.832@0.23.1440.832" timestamp="1581044066232" />
-    <state width="1358" height="250" key="GridCell.Tab.1.center" timestamp="1582220656000">
-      <screen x="0" y="23" width="1440" height="831" />
-    </state>
-    <state width="1358" height="250" key="GridCell.Tab.1.center/0.23.1440.831@0.23.1440.831" timestamp="1582220656000" />
-    <state width="1358" height="250" key="GridCell.Tab.1.center/0.23.1440.832@0.23.1440.832" timestamp="1581044066230" />
-    <state width="1358" height="250" key="GridCell.Tab.1.left" timestamp="1582220655999">
-      <screen x="0" y="23" width="1440" height="831" />
-    </state>
-    <state width="1358" height="250" key="GridCell.Tab.1.left/0.23.1440.831@0.23.1440.831" timestamp="1582220655999" />
-    <state width="1358" height="250" key="GridCell.Tab.1.left/0.23.1440.832@0.23.1440.832" timestamp="1581044066230" />
-    <state width="1358" height="250" key="GridCell.Tab.1.right" timestamp="1582220656000">
-      <screen x="0" y="23" width="1440" height="831" />
-    </state>
-    <state width="1358" height="250" key="GridCell.Tab.1.right/0.23.1440.831@0.23.1440.831" timestamp="1582220656000" />
-    <state width="1358" height="250" key="GridCell.Tab.1.right/0.23.1440.832@0.23.1440.832" timestamp="1581044066231" />
-    <state x="208" y="23" width="1024" height="831" key="SettingsEditor" timestamp="1583468441439">
-      <screen x="0" y="23" width="1440" height="831" />
-    </state>
-    <state x="208" y="23" width="1024" height="831" key="SettingsEditor/0.23.1440.831@0.23.1440.831" timestamp="1583468441439" />
-    <state x="399" y="270" key="com.intellij.ide.util.TipDialog" timestamp="1583889237249">
-      <screen x="0" y="23" width="1440" height="830" />
-    </state>
-    <state x="399" y="270" key="com.intellij.ide.util.TipDialog/0.23.1440.830@0.23.1440.830" timestamp="1583889237249" />
-    <state x="399" y="270" key="com.intellij.ide.util.TipDialog/0.23.1440.831@0.23.1440.831" timestamp="1583511548579" />
-    <state x="399" y="271" key="com.intellij.ide.util.TipDialog/0.23.1440.833@0.23.1440.833" timestamp="1580479099194" />
-    <state width="600" height="424" key="javadoc.popup" timestamp="1581029951467">
-      <screen x="0" y="23" width="1440" height="832" />
-    </state>
-    <state width="600" height="424" key="javadoc.popup/0.23.1440.832@0.23.1440.832" timestamp="1581029951467" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1609019117507" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/679_labs$SeqMultAdder.ic" NAME="SeqMultAdder Coverage Results" MODIFIED="1581044066184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

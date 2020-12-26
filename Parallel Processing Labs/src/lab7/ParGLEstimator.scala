@@ -18,7 +18,7 @@ object ParGLEstimator extends App {
 
   val partials = ranges.par.map { partial =>
     val (lower, upper) = partial
-    // TODO: sum over lower and upper per Eq. 1
+    // sum over lower and upper per Equation
     val sum: Double = (lower to upper).foldLeft(1.0)((PiOverFour, upper) =>
       PiOverFour + (1 - (2.0 * (upper.toDouble % 2.0))) / (2.0 * upper.toDouble + 1.0))
 
