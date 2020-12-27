@@ -1,7 +1,5 @@
 # Parallel Processing
 
-Video walkthough of this repository can be found here
-
 Excercises and programs that utlize parallel processing programming practices.
 
 Created in IntelliJ for simplicity when running, make sure you follow the .idea file configurations.
